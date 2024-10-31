@@ -1,2 +1,1 @@
-# "Book Store"
-* Creating a C# Web Application
+# C# 'Book Store' Web Application
