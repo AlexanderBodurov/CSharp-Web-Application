@@ -1,3 +1,2 @@
-# University Project
-* Creating a "Book Store"
-  Web Application using C# 
+# Book Store
+* Creating a C# Web Application
