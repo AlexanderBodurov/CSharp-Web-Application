@@ -1,1 +1,2 @@
-# Creating a BOOK STORE Web Application
+# Creating a "Book Store"
+# Web Application using C# 
